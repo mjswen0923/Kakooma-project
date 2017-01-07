@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=dimension
+comment0.target=MultiplicationSet(int)
+comment1.params=num\ answer\ minimum
+comment1.target=int[]\ initiateSet(int,\ int,\ int)
+comment2.params=num
+comment2.target=int[][]\ initiateNumbers(int)
+comment3.params=value\ list\ availableList\ unavailableList
+comment3.target=void\ removeInstances(int,\ int[],\ java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=num
+comment4.target=java.util.ArrayList\ divisors(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

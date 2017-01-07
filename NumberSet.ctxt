@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=dimension
+comment0.target=NumberSet(int)
+comment1.params=num\ answer\ minimum
+comment1.target=int[]\ initiateSet(int,\ int,\ int)
+comment2.params=num
+comment2.target=int[][]\ initiateNumbers(int)
+comment3.params=value\ list\ availableList\ unavailableList
+comment3.target=void\ removeInstances(int,\ int[],\ java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=list
+comment4.target=void\ shuffle(int[])
+comment5.params=value\ list
+comment5.target=int\ removeElement(int,\ java.util.ArrayList)
+comment6.params=
+comment6.target=int[][]\ getNumbers()
+comment7.params=index\ value
+comment7.target=void\ setAnswer(int,\ int)
+comment8.params=
+comment8.target=int[]\ getAnswers()
+comment9.params=list
+comment9.target=void\ printElements(java.util.ArrayList)
+numComments=10
