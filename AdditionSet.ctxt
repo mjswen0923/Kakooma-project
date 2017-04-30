@@ -1,12 +1,13 @@
 #BlueJ class context
-comment0.params=dimension
-comment0.target=AdditionSet(int)
-comment1.params=num\ answer\ minimum
-comment1.target=int[]\ initiateSet(int,\ int,\ int)
-comment2.params=num
-comment2.target=int[][]\ initiateNumbers(int)
-comment3.params=value\ list\ availableList\ unavailableList
-comment3.target=void\ removeInstances(int,\ int[],\ java.util.ArrayList,\ java.util.ArrayList)
-comment4.params=args
-comment4.target=void\ main(java.lang.String[])
-numComments=5
+comment0.target=AdditionSet
+comment1.params=dimension
+comment1.target=AdditionSet(int)
+comment2.params=num\ answer\ minimum
+comment2.target=int[]\ initiateSet(int,\ int,\ int)
+comment3.params=num
+comment3.target=int[][]\ initiateNumbers(int)
+comment4.params=value\ list\ availableList\ unavailableList
+comment4.target=void\ removeInstances(int,\ int[],\ java.util.ArrayList,\ java.util.ArrayList)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

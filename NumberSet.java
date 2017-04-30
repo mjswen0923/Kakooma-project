@@ -1,6 +1,4 @@
- 
-
-import java.util.*;
+ import java.util.*;
 
 public abstract class NumberSet {
     private int dimension;
